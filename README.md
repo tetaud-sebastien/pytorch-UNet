@@ -30,3 +30,9 @@ The primary objective of the repository is to develop a U-Net model from the pap
 ```Bash
 python main.py
 ```
+
+### To do
+
+- Use model list
+- Separate Encoder end Decoder into Class
+- Block with double conv
