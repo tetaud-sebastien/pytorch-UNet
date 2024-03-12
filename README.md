@@ -20,3 +20,9 @@ conda activate unet
 ```Bash
 pip install -r requirements.txt 
 ```
+
+### Goal of the repository
+
+The main goal of the repository is just to develop from scratch a U-Net model to a train a classifier based on the Pytorch tutorial: https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
+
+The code from the the tutorial remains but the network is different. 
