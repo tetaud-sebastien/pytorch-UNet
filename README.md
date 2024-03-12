@@ -24,3 +24,9 @@ pip install -r requirements.txt
 ### Goal of the repository
 
 The primary objective of the repository is to develop a U-Net model from the paper titled **U-Net: Convolutional Networks for Biomedical Image Segmentation**.
+
+### Test U-Net network
+
+```Bash
+python main.py
+```
