@@ -23,6 +23,4 @@ pip install -r requirements.txt
 
 ### Goal of the repository
 
-The primary objective of the repository is to develop a U-Net model from scratch to train a classifier, following the PyTorch tutorial: https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html.
-
-The U-Net network architecture is inspired by the paper titled **U-Net: Convolutional Networks for Biomedical Image Segmentation**. As we are addressing a classification problem rather than a segmentation problem, the last layer needs to be modified.
+The primary objective of the repository is to develop a U-Net model from the paper titled **U-Net: Convolutional Networks for Biomedical Image Segmentation**.
